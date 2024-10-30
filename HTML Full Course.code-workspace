@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../HTML Full Course"
+		},
+		{
+			"path": "../../java script"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projects Web Dev"
+	}
+}
